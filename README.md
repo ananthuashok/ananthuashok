@@ -8,8 +8,8 @@
 
 ### Connect with me:
 
-[(./img/linkedin-light.svg)](https://linkedin.com/in/codeSTACKr#gh-light-mode-only)
-[(./img/linkedin-dark.svg)](https://linkedin.com/in/codeSTACKr#gh-dark-mode-only)
+(https://linkedin.com/in/codeSTACKr#gh-light-mode-only)
+(https://linkedin.com/in/codeSTACKr#gh-dark-mode-only)
 &nbsp;&nbsp;
 [(./img/instagram-light.svg)](https://instagram.com/codeSTACKr#gh-light-mode-only)
 [(./img/instagram-dark.svg)](https://instagram.com/codeSTACKr#gh-dark-mode-only)
