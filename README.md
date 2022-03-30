@@ -30,8 +30,10 @@
 
 <details>
   <summary>:zap: GitHub Stats</summary>
+  
+  <br />
 
- <img align="left" alt="ananthuashok's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ananthuashok&show_icons=true&hide_border=false&title_color=71b7ff&icon_color=ffb809&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+  <img align="left" alt="ananthuashok's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ananthuashok&show_icons=true&hide_border=false&title_color=71b7ff&icon_color=ffb809&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
 
 
 </details>
