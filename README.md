@@ -31,7 +31,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="ananthu's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ananthuashok&show_icons=true&hide_border=false&title_color=#7a828e&icon_color=#122233&bg_color=#0a0c10&text_color=ffffff&border_color=0c1a25" />
+  <img align="left" alt="ananthu's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ananthuashok&show_icons=true&hide_border=false&title_color=#7a828e&icon_color=#122233&bg_color=0a0c10&text_color=ffffff&border_color=0c1a25" />
 
 </details>
 
