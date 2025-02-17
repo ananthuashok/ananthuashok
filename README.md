@@ -4,7 +4,7 @@
 
 
 -  I’m currently freelancing
--  Interested In: Trading , Investing and Software Development
+-  Interested In:Web Development, Software Development , Data Science
 
 ### Connect with me:
 
